@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
-    <string name="app_name_release" translatable="false" tools:ignore="UnusedResources">Jellyfin</string>
-    <string name="app_name_debug" translatable="false" tools:ignore="UnusedResources">Jellyfin Debug</string>
+    <string name="app_name_release" translatable="false" tools:ignore="UnusedResources">Jellyfin GostLy</string>
+    <string name="app_name_debug">Jellyfin GostLy Debug</string>
     <string name="video_error_unknown_error">Failed to load video</string>
     <string name="loading">Loading…</string>
     <string name="btn_cancel">Cancel</string>
@@ -132,6 +132,7 @@
     <string name="lbl_sorted_by">sorted by</string>
     <string name="lbl_from">from</string>
     <string name="lbl_name">Name</string>
+    <string name="lbl_date_last_content_added">Last episode date added</string>
     <string name="lbl_date_added">Date added</string>
     <string name="lbl_premier_date">Premier date</string>
     <string name="lbl_critic_rating">Critic rating</string>
