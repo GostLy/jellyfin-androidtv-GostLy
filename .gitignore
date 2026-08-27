@@ -7,4 +7,4 @@ local.properties
 .kotlin/
 build/
 captures/
-*.md
+CLAUDE.md
